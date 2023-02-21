@@ -1,6 +1,6 @@
 Hello!
 
-- 🔭 I’m currently learning F# and Elixir
+- 🔭 I’m currently learning Cloud Computing and Infrastructure as code (IAC)
 - 👯 I’m looking to collaborate on open source projects.
 - 📫 How to reach me: victor.kayky@protonmail.com
 
